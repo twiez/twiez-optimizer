@@ -447,7 +447,7 @@ class RPCThread(QThread):
     def __init__(self):
         super().__init__()
         self.running = True
-        self.client_id = "1361646178965389322"  # Discord Developer'dan aldığınız Client ID
+        self.client_id = "1361646178965389322" 
         self.RPC = Presence(self.client_id)
 
     def run(self):
@@ -1318,7 +1318,7 @@ class HardwareWidget(QWidget):
 
     def get_gpu_info(self):
         try:
-            # GPUtil kullanarak GPU bilgilerini al
+           
             gpus = GPUtil.getGPUs()
             if not gpus:
                 return "GPU bulunamadı"
@@ -1648,7 +1648,7 @@ class InfoWidget(QWidget):
 
 # ======================= GÜNCELLEME KONTROLÜ =======================
 class UpdateChecker(QThread):
-    update_available = pyqtSignal(str, str)  # Yeni sürüm bilgisi ve indirme URL'si
+    update_available = pyqtSignal(str, str) 
 
     def __init__(self, current_version, repo_url):
         super().__init__()
@@ -1705,7 +1705,6 @@ if not is_admin():
 
 # ======================= UYGULAMA BAŞLATMA =======================
 if __name__ == "__main__":
-    # DPI farkındalığı için ilgili attribute'lar etkinleştiriliyor.
     QApplication.setAttribute(Qt.AA_EnableHighDpiScaling, True)
     QApplication.setAttribute(Qt.AA_UseHighDpiPixmaps, True)
     app = QApplication(sys.argv)
