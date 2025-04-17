@@ -32,15 +32,17 @@ Twiez Optimizer, Windows kullanıcılarının sistem performansını maksimum se
 
 ## Resimler
 
-![1](https://github.com/user-attachments/assets/e1bbd264-20fa-4bdb-a938-b93cfb5800e7)
+![1](https://github.com/user-attachments/assets/d6e2d4ab-cfed-48ba-9b2a-4ddf6bee5944)
 -------------------
-![download](https://github.com/user-attachments/assets/80cfbeef-fe29-422b-ad95-a13a6d8efbe5)
+![2](https://github.com/user-attachments/assets/dee2eff5-5af3-4089-b486-d415b32e3a7f)
 -------------------
-![download (1)](https://github.com/user-attachments/assets/3cab13af-b94e-4b2f-901e-c2f2149c8087)
+![3](https://github.com/user-attachments/assets/0ad3c455-6b41-424b-8636-3ea9a10098e0)
 -------------------
-![4](https://github.com/user-attachments/assets/ba444120-90e9-40d8-9b31-37fd41f2c677)
+![4](https://github.com/user-attachments/assets/e58a2fdf-40dc-467b-9c6e-989947ae6557)
 -------------------
-![5](https://github.com/user-attachments/assets/95786e55-fb3c-4c86-a61c-e0ada96a5d0c)
+![5](https://github.com/user-attachments/assets/f76903b0-74f4-4c0c-8455-4e0992bef1bd)
+-------------------
+![6](https://github.com/user-attachments/assets/4a2050aa-35ea-46cd-9da2-15a732748236)
 -------------------
 
 ## 📊 Ziyaretçi Sayısı
