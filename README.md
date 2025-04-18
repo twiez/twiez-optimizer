@@ -23,6 +23,19 @@
     <a href="https://github.com/twiez/twiez-optimizer/pulls">Send a Pull Request</a>
   </p>
 </p>
+<br>
+<p align="center">
+  <a href="https://github.com/twiez/twiez-optimizer/releases">
+    <img src="https://img.shields.io/github/downloads/twiez/twiez-optimizer/total" alt="GitHub all releases">
+  </a>
+  <a href="https://github.com/twiez/twiez-optimizer/releases">
+    <img src="https://img.shields.io/github/v/release/twiez/twiez-optimizer" alt="GitHub release (latest by date)">
+  </a>
+  <a href="https://github.com/twiez/twiez-optimizer/releases">
+    <img src="https://img.shields.io/github/repo-size/twiez/twiez-optimizer" alt="GitHub repo size">
+  </a>
+</p>
+
 
 <!-- ABOUT THE PROJECT -->
 
