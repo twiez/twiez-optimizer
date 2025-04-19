@@ -25,17 +25,19 @@
 </p>
 <br>
 <p align="center">
-  <a href="https://github.com/twiez/twiez-optimizer/releases">
-    <img src="https://img.shields.io/github/downloads/twiez/twiez-optimizer/total" alt="GitHub all releases">
+  <a href="https://github.com/twiez/twiez-optimizer/releases/latest/download/Twiez-Optimizer.exe">
+    <img src="https://img.shields.io/github/downloads/twiez/twiez-optimizer/total?style=for-the-badge" alt="Downloads@latest">
   </a>
   <a href="https://github.com/twiez/twiez-optimizer/releases">
-    <img src="https://img.shields.io/github/v/release/twiez/twiez-optimizer" alt="GitHub release (latest by date)">
+    <img src="https://img.shields.io/github/v/release/twiez/twiez-optimizer?style=for-the-badge" alt="Release Version Badge">
   </a>
-  <a href="https://github.com/twiez/twiez-optimizer/releases">
-    <img src="https://img.shields.io/github/repo-size/twiez/twiez-optimizer" alt="GitHub repo size">
+  <a href="https://github.com/twiez/twiez-optimizer/issues">
+    <img src="https://img.shields.io/github/issues/twiez/twiez-optimizer?style=for-the-badge" alt="Issues Badge">
+  </a>
+  <a href="https://github.com/twiez/twiez-optimizer/issues?q=is%3Aissue+is%3Aclosed">
+    <img src="https://img.shields.io/github/issues-closed/twiez/twiez-optimizer?color=%238256d0&style=for-the-badge" alt="Closed Issues Badge">
   </a>
 </p>
-
 
 <!-- ABOUT THE PROJECT -->
 
