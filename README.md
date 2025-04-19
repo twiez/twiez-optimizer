@@ -23,7 +23,7 @@
 
   <a href="https://www.buymeacoffee.com/twiez"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" style="margin-right: 10px;"></a>
   <a href="https://github.com/sponsors/twiez"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="Github Sponsor" style="margin-right: 10px;"></a>
-  <a href="https://github.com/twiez/twiez-optimizer/wiki/Installation"><img src="https://img.shields.io/badge/Get%20Started-Twiez%20Optimizer-blue?style=for-the-badge" alt="Get Started"></a>
+  <a href="https://github.com/twiez/twiez-optimizer/wiki/Home"><img src="https://img.shields.io/badge/Get%20Started-Twiez%20Optimizer-blue?style=for-the-badge" alt="Get Started"></a>
 </div>
 
 ### Why Choose Twiez Optimizer?
