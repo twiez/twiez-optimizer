@@ -62,6 +62,12 @@ Twiez Optimizer is a powerful system optimization tool designed to **enhance per
   <p><em>Twiez Optimizer - Clean, Modern, and Intuitive Interface</em></p>
 </div>
 
+<p align="center">
+  <a href="https://github.com/twiez/twiez-optimizer/releases/download/v1.1.0/TwiezOptimizer.exe">
+    <img src="https://img.shields.io/badge/Download-Now-green?style=for-the-badge" alt="Download Now">
+  </a>
+</p>
+
 ## License
 
 This project is licensed under the [MIT License](https://github.com/twiez/twiez-optimizer/blob/main/LICENSE).
