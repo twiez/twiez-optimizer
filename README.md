@@ -39,6 +39,17 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/twiez">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" style="margin-right: 10px;">
+  </a>
+  <a href="https://github.com/sponsors/twiez">
+    <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" alt="GitHub Sponsor" style="margin-right: 10px;">
+  </a>
+</p>
+
+
+
 <!-- ABOUT THE PROJECT -->
 
 ## Proje Hakkında
