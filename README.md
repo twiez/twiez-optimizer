@@ -8,6 +8,7 @@
   <strong>Optimize. Clean. Enhance.</strong><br>
   Your ultimate tool for boosting Windows performance and efficiency.
 </p>
+
 <div align="center" style="margin: 20px 0;">
   <a href="README.md"><img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge" alt="English"></a>
   <a href="README.tr.md"><img src="https://img.shields.io/badge/Dil-Türkçe-red?style=for-the-badge" alt="Türkçe"></a>
