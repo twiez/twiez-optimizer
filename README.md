@@ -1,79 +1,73 @@
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <kbd>
-  <a href="https://twiezoptimizer.netlify.app">
-    <img src="https://github.com/user-attachments/assets/4a957968-5b7f-445b-84f2-ce4767a5ffe0" alt="Logo" width="250" height="250">
-    </kbd>
-  </a>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4a957968-5b7f-445b-84f2-ce4767a5ffe0" alt="Twiez Optimizer Logo" width="120">
+</div>
 
-  <h3 align="center">Twiez Optimizer</h3>
+<h1 align="center" style="font-family: 'Segoe UI', sans-serif; font-weight: 600; color: #0078D4;">Twiez Optimizer</h1>
 
-  <p align="center">
-    Windows Sistemler için Akıllı Optimizasyon ve Performans Yönetim Aracı
-    <br />
-    <br />
-    <a href="https://twiezoptimizer.netlify.app"><strong>Siteyi Görüntüle</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/twiez/twiez-optimizer/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/twiez/twiez-optimizer/issues">Request Feature</a>
-    ·
-    <a href="https://github.com/twiez/twiez-optimizer/pulls">Send a Pull Request</a>
-  </p>
+<p align="center" style="font-size: 1.1rem; color: #555;">
+  <strong>Optimize. Clean. Enhance.</strong><br>
+  Your ultimate tool for boosting Windows performance and efficiency.
 </p>
+
+<div align="center" style="margin: 20px 0;">
+  
+  [![Downloads@latest](https://img.shields.io/github/downloads/twiez/twiez-optimizer/total?style=for-the-badge)](https://github.com/twiez/twiez-optimizer/releases/latest/download/TwiezOptimizer.zip)
+  [![Release Version Badge](https://img.shields.io/github/v/release/twiez/twiez-optimizer?style=for-the-badge)](https://github.com/twiez/twiez-optimizer/releases)
+  [![Issues Badge](https://img.shields.io/github/issues/twiez/twiez-optimizer?style=for-the-badge)](https://github.com/twiez/twiez-optimizer/issues)
+  [![Closed Issues Badge](https://img.shields.io/github/issues-closed/twiez/twiez-optimizer?color=%238256d0&style=for-the-badge)](https://github.com/twiez/twiez-optimizer/issues?q=is%3Aissue+is%3Aclosed)<br>
+
+  <a href="https://www.buymeacoffee.com/twiez"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" style="margin-right: 10px;"></a>
+  <a href="https://github.com/sponsors/twiez"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="Github Sponsor" style="margin-right: 10px;"></a>
+  <a href="https://github.com/twiez/twiez-optimizer/wiki/Installation"><img src="https://img.shields.io/badge/Get%20Started-Twiez%20Optimizer-blue?style=for-the-badge" alt="Get Started"></a>
+</div>
+
+### Why Choose Twiez Optimizer?
+- **Effortless Optimization**: Instantly boost your system's speed and reliability.
+- **Comprehensive Features**: From cleaning junk files to enhancing privacy, Twiez Optimizer has it all.
+
+---
+
+## About
+
+Twiez Optimizer is a powerful system optimization tool designed to **enhance performance**, **clean junk files**, and **improve usability** on Windows systems. Built with **Python** and **PyQt5**, it provides a modern and responsive user experience. Whether you're a **gamer** or a **power user**, Twiez Optimizer helps you clean, optimize, and manage your system effortlessly.
+
 <br>
-<p align="center">
-  <a href="https://github.com/twiez/twiez-optimizer/releases/latest/download/Twiez-Optimizer.exe">
-    <img src="https://img.shields.io/github/downloads/twiez/twiez-optimizer/total?style=for-the-badge" alt="Downloads@latest">
-  </a>
-  <a href="https://github.com/twiez/twiez-optimizer/releases">
-    <img src="https://img.shields.io/github/v/release/twiez/twiez-optimizer?style=for-the-badge" alt="Release Version Badge">
-  </a>
-  <a href="https://github.com/twiez/twiez-optimizer/issues">
-    <img src="https://img.shields.io/github/issues/twiez/twiez-optimizer?style=for-the-badge" alt="Issues Badge">
-  </a>
-  <a href="https://github.com/twiez/twiez-optimizer/issues?q=is%3Aissue+is%3Aclosed">
-    <img src="https://img.shields.io/github/issues-closed/twiez/twiez-optimizer?color=%238256d0&style=for-the-badge" alt="Closed Issues Badge">
-  </a>
-</p>
+<div align="center" style="margin: 20px 0;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt5 Badge" />
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge" />
+</div>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/twiez">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" style="margin-right: 10px;">
-  </a>
-  <a href="https://github.com/sponsors/twiez">
-    <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" alt="GitHub Sponsor" style="margin-right: 10px;">
-  </a>
-</p>
+## Features
+- **System Cleaning**: Remove temporary files, browser caches, and other unnecessary data to free up space and improve performance.
+- **Performance Optimization**: Adjust system settings to maximize speed and efficiency.
+- **Privacy Protection**: Disable telemetry and tracking features to safeguard your personal data.
+- **Real-Time Monitoring**: View CPU, RAM, and GPU usage in real-time with intuitive charts.
+- **Hardware Insights**: Get detailed information about your system's hardware and performance scores.
+- **Modern Design**: Enjoy a sleek, user-friendly interface with dark mode support.
 
+## UI Preview
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/4c8b5544-dccb-4a5e-93f5-86d988cce8ae" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/4c8b5544-dccb-4a5e-93f5-86d988cce8ae" />
+    <img alt="Twiez Optimizer Interface" src="https://github.com/user-attachments/assets/4c8b5544-dccb-4a5e-93f5-86d988cce8ae" />
+  </picture>
+  <p><em>Twiez Optimizer - Clean, Modern, and Intuitive Interface</em></p>
+</div>
 
-<!-- ABOUT THE PROJECT -->
+## License
 
-## Proje Hakkında
+This project is licensed under the [MIT License](https://github.com/twiez/twiez-optimizer/blob/main/LICENSE).
 
-Twiez Optimizer, Windows kullanıcılarının sistem performansını maksimum seviyeye çıkarmak, gereksiz dosyaları temizlemek ve donanım bilgilerini kolayca görüntülemek için tasarlanmış bir araçtır. Uygulama, tek bir arayüzde sunduğu çeşitli özelliklerle hem yeni hem de deneyimli kullanıcıların ihtiyaçlarını karşılar.  
+## Contact
 
-## Resimler
+- [X](https://twitter.com/twiez)
+- [GitHub](https://github.com/twiezbtw)
+- [Website](https://twiez.netlify.app/)
+- [Discord](https://discord.com/users/886190759479480330)
 
-![1](https://github.com/user-attachments/assets/d6e2d4ab-cfed-48ba-9b2a-4ddf6bee5944)
--------------------
-![2](https://github.com/user-attachments/assets/dee2eff5-5af3-4089-b486-d415b32e3a7f)
--------------------
-![3](https://github.com/user-attachments/assets/0ad3c455-6b41-424b-8636-3ea9a10098e0)
--------------------
-![4](https://github.com/user-attachments/assets/e58a2fdf-40dc-467b-9c6e-989947ae6557)
--------------------
-![5](https://github.com/user-attachments/assets/f76903b0-74f4-4c0c-8455-4e0992bef1bd)
--------------------
-![6](https://github.com/user-attachments/assets/4a2050aa-35ea-46cd-9da2-15a732748236)
--------------------
+![Wiev](https://count.getloli.com/get/@twiez.twiez-optimizer?theme=rule34)
 
-## 📊 Ziyaretçi Sayısı
-![Ziyaretçi Sayısı](https://count.getloli.com/get/@twiez.twiez-optimizer?theme=rule34)
-
-## Bana Kahve Ismarla
-
-https://buymeacoffee.com/twiez
+We’re here to support and listen to your feedback!
