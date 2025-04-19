@@ -68,8 +68,8 @@ This project is licensed under the [MIT License](https://github.com/twiez/twiez-
 
 ## Contact
 
-- [X](https://twitter.com/twiez)
-- [GitHub](https://github.com/twiezbtw)
+- [X](https://twitter.com/twiezbtw)
+- [GitHub](https://github.com/twiez)
 - [Website](https://twiez.netlify.app/)
 - [Discord](https://discord.com/users/886190759479480330)
 
