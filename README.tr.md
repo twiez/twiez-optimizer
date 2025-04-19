@@ -64,6 +64,12 @@
   <p><em>Twiez Optimizer - Temiz, Modern ve Sezgisel Arayüz</em></p>
 </div>
 
+<p align="center">
+  <a href="https://github.com/twiez/twiez-optimizer/releases/download/v1.1.0/TwiezOptimizer.exe">
+    <img src="https://img.shields.io/badge/Şimdi-İndir-green?style=for-the-badge" alt="Şimdi İndir!">
+  </a>
+</p>
+
 ## Lisans
 
 Bu proje [MIT Lisansı](https://github.com/twiez/twiez-optimizer/blob/main/LICENSE) ile lisanslanmıştır.
