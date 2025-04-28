@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4a957968-5b7f-445b-84f2-ce4767a5ffe0" alt="Twiez Optimizer Logo" width="120">
+  <img src="https://github.com/user-attachments/assets/45a92a35-bb8b-4cc7-9010-36608e5b7a02" alt="Twiez Optimizer Logo" width="200">
 </div>
 
 <h1 align="center" style="font-family: 'Segoe UI', sans-serif; font-weight: 600; color: #0078D4;">Twiez Optimizer</h1>
