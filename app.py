@@ -678,7 +678,7 @@ class RPCThread(QThread):
     def __init__(self):
         super().__init__()
         self.running = True
-        self.client_id = "1361646178965389322"  # Discord Developer'dan aldığınız Client ID
+        self.client_id = "1361646178965389322"  
         self.RPC = Presence(self.client_id)
 
     def run(self):
@@ -738,7 +738,7 @@ class OptimizerWindow(QMainWindow):
 
     def animate_maximize(self):
         if not self.isMaximized():
-            # Fade out animasyonu
+            
             fade_out = QPropertyAnimation(self, b"windowOpacity")
             fade_out.setDuration(150)
             fade_out.setStartValue(1)
@@ -746,12 +746,12 @@ class OptimizerWindow(QMainWindow):
             fade_out.setEasingCurve(QEasingCurve.InOutQuad)
             
             def on_fade_out_finished():
-                # Pencereyi ekranın ortasına al
+               
                 screen = QApplication.primaryScreen().geometry()
                 self.move(screen.center() - self.rect().center())
-                # Tam ekran yap
+              
                 self.showMaximized()
-                # Fade in animasyonu
+               
                 fade_in = QPropertyAnimation(self, b"windowOpacity")
                 fade_in.setDuration(150)
                 fade_in.setStartValue(0)
@@ -764,7 +764,7 @@ class OptimizerWindow(QMainWindow):
             fade_out.start()
             self._fade_out_anim = fade_out
         else:
-            # Fade out animasyonu
+           
             fade_out = QPropertyAnimation(self, b"windowOpacity")
             fade_out.setDuration(150)
             fade_out.setStartValue(1)
@@ -772,11 +772,11 @@ class OptimizerWindow(QMainWindow):
             fade_out.setEasingCurve(QEasingCurve.InOutQuad)
             
             def on_fade_out_finished():
-                # Normal boyuta dönerken ekranın ortasına al
+                
                 screen = QApplication.primaryScreen().geometry()
                 self.showNormal()
                 self.move(screen.center() - self.rect().center())
-                # Fade in animasyonu
+                
                 fade_in = QPropertyAnimation(self, b"windowOpacity")
                 fade_in.setDuration(150)
                 fade_in.setStartValue(0)
@@ -845,10 +845,10 @@ class OptimizerWindow(QMainWindow):
     def title_bar_mouse_press(self, event):
         if event.button() == Qt.LeftButton:
             self.old_pos = event.globalPos()
-            # Pencereyi normal boyuta getir
+            
             if self.isMaximized():
                 self.showNormal()
-                # Pencereyi tıklanan noktaya göre konumlandır
+                
                 new_pos = event.globalPos() - QPoint(self.width() // 2, 0)
                 self.move(new_pos)
                 self.old_pos = event.globalPos()
@@ -956,7 +956,7 @@ class OptimizerWindow(QMainWindow):
         scale = screen.logicalDotsPerInch() / 96
         screen_geometry = screen.geometry()
         
-        # Pencere boyutunu ekran boyutuna göre ayarla
+    
         base_width = 1100
         base_height = 750
         max_width = int(screen_geometry.width() * 0.8)  # Ekran genişliğinin %80'i
@@ -1072,8 +1072,8 @@ class WindowsSettingsWidget(QWidget):
         grid.setContentsMargins(10, 10, 10, 10)
 
         for i, (text, name) in enumerate(features):
-            row = i % 7  # Her sütunda 7 öğe olacak
-            col = i // 7  # Sütun sayısı
+            row = i % 7  
+            col = i // 7  
             
             container = QWidget()
             container_layout = QHBoxLayout(container)
@@ -1294,7 +1294,7 @@ class CleanerWidget(QWidget):
         layout.addWidget(title)
 
     def setup_checkboxes(self, layout):
-        # Temizlik seçenekleri ve açıklamaları
+      
         settings_info = {
             "🗑️ Geçici Dosyalar": "Geçici dosyalar silinir, genellikle önemsiz dosyalardır.",
             "🗑️ Geri Dönüşüm Kutusu": "Geri dönüşüm kutusundaki dosyalar tamamen silinir.",
@@ -2017,7 +2017,7 @@ class SecurityWidget(QWidget):
         main_layout.setContentsMargins(24, 24, 24, 24)
         main_layout.setSpacing(18)
 
-        # Ortalanmış, sade başlık
+        
         title = QLabel("🔒 Güvenlik Özellikleri")
         title.setAlignment(Qt.AlignCenter)
         title.setStyleSheet("color: #bb86fc; font: bold 22px 'Segoe UI', Arial; margin-bottom: 0; background: transparent;")
@@ -2078,7 +2078,7 @@ class SecurityWidget(QWidget):
         lbl.setStyleSheet("color: #bb86fc; font: bold 16px 'Segoe UI', Arial; margin-bottom: 8px;")
         layout.addWidget(lbl)
         layout.addWidget(status_label, alignment=Qt.AlignCenter)
-        layout.addWidget(button, alignment=Qt.AlignCenter)  # Butonu ortala
+        layout.addWidget(button, alignment=Qt.AlignCenter)  
         return frame
 
     def _style_button(self, btn):
@@ -2104,7 +2104,7 @@ class SecurityWidget(QWidget):
         lbl.setStyleSheet(f"background: {STYLE_CONFIG['dark']['bg']}; color: #fff; font: 14px 'Segoe UI', Arial; padding: 7px 0; border-radius: 8px;")
 
     def load_security_status(self):
-        # Firewall durumu
+        
         try:
             import subprocess
             result = subprocess.check_output('netsh advfirewall show allprofiles', shell=True, creationflags=getattr(subprocess, 'CREATE_NO_WINDOW', 0)).decode()
@@ -2114,7 +2114,7 @@ class SecurityWidget(QWidget):
                 self.firewall_status.setText('Devre Dışı')
         except Exception:
             self.firewall_status.setText('Bilinmiyor')
-        # UAC durumu
+      
         try:
             import winreg
             with winreg.OpenKey(winreg.HKEY_LOCAL_MACHINE, r'SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\System') as key:
@@ -2122,7 +2122,7 @@ class SecurityWidget(QWidget):
                 self.uac_status.setText('Etkin' if val == 1 else 'Devre Dışı')
         except Exception:
             self.uac_status.setText('Bilinmiyor')
-        # Sistem güvenlik analizi
+    
         self.analysis_status.setText('Hazır')
 
     def toggle_firewall(self):
@@ -2180,7 +2180,7 @@ class SecurityWidget(QWidget):
 
 # ======================= GÜNCELLEME KONTROLÜ =======================
 class UpdateChecker(QThread):
-    update_available = pyqtSignal(str, str)  # Yeni sürüm bilgisi ve indirme URL'si
+    update_available = pyqtSignal(str, str)  
 
     def __init__(self, current_version, repo_url):
         super().__init__()
@@ -2198,10 +2198,10 @@ class UpdateChecker(QThread):
                 if self.is_new_version(latest_version):
                     self.update_available.emit(latest_version, download_url)
         except Exception as e:
-            pass  # Hata oluşursa sessizce geç
+            pass 
 
     def is_new_version(self, latest_version):
-        # 'v' önekini kaldır
+        
         current_parts = list(map(int, self.current_version.split(".")))
         latest_parts = list(map(int, latest_version.lstrip('v').split(".")))
         return latest_parts > current_parts
@@ -2219,7 +2219,7 @@ class UpdateManager:
                 zip_file = ZipFile(BytesIO(response.content))
                 zip_file.extractall(os.getcwd())  # Mevcut dizine çıkar
                 CustomNotification("✅ Uygulama başarıyla güncellendi! Lütfen uygulamayı yeniden başlatın.", duration=3000, parent=self.parent).show_notification()
-                sys.exit()  # Uygulamayı kapat
+                sys.exit()  
             else:
                 CustomNotification("⛔ Güncelleme indirilemedi!", duration=3000, parent=self.parent).show_notification()
         except Exception as e:
@@ -2239,7 +2239,7 @@ if not is_admin():
 class InfoButton(QToolButton):
     def __init__(self, info_text, parent=None):
         super().__init__(parent)
-        self.setText("?")  # Unicode karakter yerine metin olarak soru işareti
+        self.setText("?")  
         self.setStyleSheet(f"""
             QToolButton {{
                 background: transparent;
@@ -2265,7 +2265,6 @@ class InfoButton(QToolButton):
         CustomNotification(info_text, duration=5000, parent=self).show_notification()
 
 if __name__ == "__main__":
-    # DPI farkındalığı için ilgili attribute'lar etkinleştiriliyor.
     QApplication.setAttribute(Qt.AA_EnableHighDpiScaling, True)
     QApplication.setAttribute(Qt.AA_UseHighDpiPixmaps, True)
     app = QApplication(sys.argv)
