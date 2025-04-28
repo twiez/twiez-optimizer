@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4a957968-5b7f-445b-84f2-ce4767a5ffe0" alt="Twiez Optimizer Logo" width="120">
+  <img src="https://github.com/user-attachments/assets/45a92a35-bb8b-4cc7-9010-36608e5b7a02" alt="Twiez Optimizer Logo" width="200">
 </div>
 
 <h1 align="center" style="font-family: 'Segoe UI', sans-serif; font-weight: 600; color: #0078D4;">Twiez Optimizer</h1>
@@ -57,9 +57,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/4c8b5544-dccb-4a5e-93f5-86d988cce8ae" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/4c8b5544-dccb-4a5e-93f5-86d988cce8ae" />
-    <img alt="Twiez Optimizer Arayüzü" src="https://github.com/user-attachments/assets/4c8b5544-dccb-4a5e-93f5-86d988cce8ae" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/8714e97e-138d-4577-9ac2-41c256f08509" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/8714e97e-138d-4577-9ac2-41c256f08509" />
+    <img alt="Twiez Optimizer Interface" src="https://github.com/user-attachments/assets/8714e97e-138d-4577-9ac2-41c256f08509"/>
   </picture>
   <p><em>Twiez Optimizer - Temiz, Modern ve Sezgisel Arayüz</em></p>
 </div>
