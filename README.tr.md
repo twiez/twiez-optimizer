@@ -49,6 +49,9 @@
 - **Sistem Temizliği**: Geçici dosyalar, tarayıcı önbellekleri ve diğer gereksiz verileri temizleyerek yer açar ve performansı artırır.
 - **Performans Optimizasyonu**: Hız ve verimliliği en üst düzeye çıkarmak için sistem ayarlarını optimize eder.
 - **Gizlilik Koruması**: Telemetri ve izleme özelliklerini devre dışı bırakarak kişisel verilerinizi korur.
+- **Ağ & DNS Optimizasyonu**: Hızlı DNS sunucularına geçiş yapın (Cloudflare, Google, Quad9) ve ağ ayarlarını sıfırlayın.
+- **Sistem Arındırıcı (Debloater)**: Gereksiz Windows uygulamalarını (bloatware) kaldırın ve arka plan telemetri servislerini devre dışı bırakın.
+- **Güvenli Optimizasyon**: Kritik değişikliklerden önce otomatik Sistem Geri Yükleme noktası oluşturma.
 - **Gerçek Zamanlı İzleme**: CPU, RAM ve GPU kullanımını sezgisel grafiklerle anlık olarak görüntüleyin.
 - **Donanım Bilgisi**: Sistem donanımınız ve performans skorları hakkında detaylı bilgiler edinin.
 - **Modern Tasarım**: Karanlık mod desteğiyle şık ve kullanıcı dostu bir arayüz.
@@ -65,7 +68,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/twiez/twiez-optimizer/releases/download/v1.1.0/TwiezOptimizer.exe">
+  <a href="https://github.com/twiez/twiez-optimizer/releases/download/v1.3.0/TwiezOptimizer.exe">
     <img src="https://img.shields.io/badge/Şimdi-İndir-green?style=for-the-badge" alt="Şimdi İndir!">
   </a>
 </p>

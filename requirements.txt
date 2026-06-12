@@ -1,0 +1,6 @@
+PyQt5>=5.15
+PyQtChart>=5.15
+psutil>=5.9
+GPUtil>=1.4
+pypresence>=4.3
+requests>=2.28

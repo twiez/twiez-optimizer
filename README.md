@@ -47,6 +47,9 @@ Twiez Optimizer is a powerful system optimization tool designed to **enhance per
 - **System Cleaning**: Remove temporary files, browser caches, and other unnecessary data to free up space and improve performance.
 - **Performance Optimization**: Adjust system settings to maximize speed and efficiency.
 - **Privacy Protection**: Disable telemetry and tracking features to safeguard your personal data.
+- **Network & DNS Optimizer**: Switch to faster DNS servers (Cloudflare, Google, Quad9) and reset network settings.
+- **System Debloater**: Remove unnecessary Windows bloatware and disable background telemetry services.
+- **Safe Optimization**: Automatic System Restore point creation before critical changes.
 - **Real-Time Monitoring**: View CPU, RAM, and GPU usage in real-time with intuitive charts.
 - **Hardware Insights**: Get detailed information about your system's hardware and performance scores.
 - **Modern Design**: Enjoy a sleek, user-friendly interface with dark mode support.
@@ -63,7 +66,7 @@ Twiez Optimizer is a powerful system optimization tool designed to **enhance per
 </div>
 
 <p align="center">
-  <a href="https://github.com/twiez/twiez-optimizer/releases/download/v1.1.0/TwiezOptimizer.exe">
+  <a href="https://github.com/twiez/twiez-optimizer/releases/download/v1.3.0/TwiezOptimizer.exe">
     <img src="https://img.shields.io/badge/Download-Now-green?style=for-the-badge" alt="Download Now">
   </a>
 </p>

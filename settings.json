@@ -1,0 +1,26 @@
+{
+    "language": "tr",
+    "debloater": {
+        "chk_telemetry": false,
+        "chk_bloatware": false
+    },
+    "network": {
+        "dns_provider": "dhcp"
+    },
+    "optimization": {
+        "opt_0": true,
+        "opt_1": true,
+        "opt_8": true,
+        "opt_7": true
+    },
+    "windows": {
+        "chk_gamedvr": true,
+        "chk_throttling": true,
+        "chk_print": true,
+        "chk_performance": true
+    },
+    "cleaner": {
+        "chk_prefetch": true,
+        "chk_browsers": true
+    }
+}
