@@ -60,9 +60,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/8714e97e-138d-4577-9ac2-41c256f08509" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/8714e97e-138d-4577-9ac2-41c256f08509" />
-    <img alt="Twiez Optimizer Interface" src="https://github.com/user-attachments/assets/8714e97e-138d-4577-9ac2-41c256f08509"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/0800e1dc-71c2-448e-a9c2-a7e5fdcef4b6" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/0800e1dc-71c2-448e-a9c2-a7e5fdcef4b6" />
+    <img alt="Twiez Optimizer Interface" src="https://github.com/user-attachments/assets/0800e1dc-71c2-448e-a9c2-a7e5fdcef4b6"/>
   </picture>
   <p><em>Twiez Optimizer - Temiz, Modern ve Sezgisel Arayüz</em></p>
 </div>
