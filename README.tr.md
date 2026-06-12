@@ -60,13 +60,12 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/0800e1dc-71c2-448e-a9c2-a7e5fdcef4b6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/0800e1dc-71c2-448e-a9c2-a7e5fdcef4b6" />
-    <img alt="Twiez Optimizer Interface" src="https://github.com/user-attachments/assets/0800e1dc-71c2-448e-a9c2-a7e5fdcef4b6"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/5e8b98ef-6c06-4613-a384-98a929f6dfbf" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/5e8b98ef-6c06-4613-a384-98a929f6dfbf" />
+    <img alt="Twiez Optimizer Interface" src="https://github.com/user-attachments/assets/5e8b98ef-6c06-4613-a384-98a929f6dfbf"/>
   </picture>
   <p><em>Twiez Optimizer - Temiz, Modern ve Sezgisel Arayüz</em></p>
 </div>
-
 <p align="center">
   <a href="https://github.com/twiez/twiez-optimizer/releases/download/v1.3.0/TwiezOptimizer.exe">
     <img src="https://img.shields.io/badge/Şimdi-İndir-green?style=for-the-badge" alt="Şimdi İndir!">
