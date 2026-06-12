@@ -78,7 +78,6 @@ Bu proje [MIT Lisansı](https://github.com/twiez/twiez-optimizer/blob/main/LICEN
 
 ## İletişim
 
-- [X](https://twitter.com/twiez)
 - [GitHub](https://github.com/twiezbtw)
 - [Web Sitesi](https://twiez.netlify.app/)
 - [Discord](https://discord.com/users/886190759479480330)
