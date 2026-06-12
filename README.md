@@ -77,9 +77,7 @@ This project is licensed under the [MIT License](https://github.com/twiez/twiez-
 
 ## Contact
 
-- [X](https://twitter.com/twiezbtw)
 - [GitHub](https://github.com/twiez)
-- [Website](https://twiez.netlify.app/)
 - [Discord](https://discord.com/users/886190759479480330)
 
 ![Wiev](https://count.getloli.com/get/@twiez.twiez-optimizer?theme=rule34)
